@@ -9,8 +9,8 @@
     </filter>
   </defs>
   <rect x="2" y="2" width="166" height="40" rx="15" fill="url(#btn-x-button)" filter="url(#shadow-x-button)"/>
-  <g transform="translate(12, 13.36) scale(0.72)" fill="#111827" shape-rendering="geometricPrecision">
+  <g transform="translate(10, 13.36) scale(0.72)" fill="#111827" shape-rendering="geometricPrecision">
     <path d="M14.234 10.162L22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299l-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z" fill-rule="evenodd"/>
   </g>
-  <text x="36" y="28.0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="700" fill="#111827">@thevoidzxc</text>
+  <text x="50%" y="28.0" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="700" fill="#111827">@thevoidzxc</text>
 </svg>
