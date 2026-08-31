@@ -2,15 +2,18 @@
   <defs>
     <linearGradient id="cloud-x-button" x1="0" y1="0" x2="0" y2="1" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#E9F2F9"/>
+      <stop offset="100%" stop-color="#EAF2F8"/>
     </linearGradient>
     <filter id="shadow-x-button" x="-15%" y="-25%" width="130%" height="150%">
       <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000000" flood-opacity="0.12"/>
     </filter>
   </defs>
-  <path d="M 25,70 A 25,25 0 0 1 25,20 C 82.0,4 158.0,4 215,20 A 25,25 0 0 1 215,70 Z" fill="url(#cloud-x-button)" filter="url(#shadow-x-button)"/>
-  <g transform="translate(20, 41) scale(0.85)" fill="#111827" shape-rendering="geometricPrecision">
+  <g filter="url(#shadow-x-button)">
+    <rect x="10" y="18" width="220" height="52" rx="14" fill="url(#cloud-x-button)"/>
+    <circle cx="120.0" cy="18" r="22" fill="url(#cloud-x-button)"/>
+  </g>
+  <g transform="translate(20, 40) scale(0.85)" fill="#111827" shape-rendering="geometricPrecision">
     <path d="M14.234 10.162L22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299l-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z" fill-rule="evenodd"/>
   </g>
-  <text x="54" y="51" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">@thevoidzxc</text>
+  <text x="54" y="50" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">@thevoidzxc</text>
 </svg>
