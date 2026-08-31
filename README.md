@@ -24,10 +24,21 @@ I stay deep in AI/ML, agents, open-source models, and reasoning systems. I like 
 
 ### <img src="https://api.iconify.design/feather/cpu.svg?color=%239ca3af" width="18" height="18" align="absmiddle" /> Stack & Tools
 
-```
-Cursor       ·  Grok Bot   ·  React  ·  Python
-Hugging Face ·  Grok Build ·  pstack
-```
+<p align="center">
+  <img src="cursor-icon.svg" height="22" alt="Cursor" />
+  &nbsp;&nbsp;
+  <img src="grok-icon.svg" height="22" alt="Grok" />
+  &nbsp;&nbsp;
+  <img src="react-icon.svg" height="22" alt="React" />
+  &nbsp;&nbsp;
+  <img src="python-icon.svg" height="22" alt="Python" />
+  <br />
+  <img src="huggingface-icon.svg" height="22" alt="Hugging Face" />
+  &nbsp;&nbsp;
+  <img src="grok-icon.svg" height="22" alt="Grok Build" />
+  &nbsp;&nbsp;
+  <img src="pstack-icon.svg" height="22" alt="pstack" />
+</p>
 
 ---
 
