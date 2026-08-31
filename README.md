@@ -8,7 +8,7 @@
   <a href="https://cursor.com/@voidzxc"><img src="cursor-button.svg" height="44" alt="Cursor cursor.com/@voidzxc" /></a>
 </p>
 
-<p align="center"><strong><code>I ship projects to the end. No slop.</code></strong></p>
+<p align="center"><strong><code>I ship projects to the end.</code></strong></p>
 
 ---
 
