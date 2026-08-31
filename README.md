@@ -27,7 +27,7 @@ I stay deep in AI/ML, agents, open-source models, and reasoning systems. I like 
 <p align="center">
   <img src="cursor-icon.svg?v=3" height="26" alt="Cursor" />
   &nbsp;&nbsp;
-  <img src="grok-icon.svg?v=3" height="26" alt="Grok" />
+  <img src="grok-official-icon.svg" height="26" alt="Grok" />
   &nbsp;&nbsp;
   <img src="react-icon.svg?v=3" height="26" alt="React" />
   &nbsp;&nbsp;
