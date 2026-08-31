@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-  <a href="https://x.com/thevoidzxc"><img src="x-button.svg" height="56" alt="X @thevoidzxc" /></a>
+  <a href="https://x.com/thevoidzxc"><img src="x-button.svg" height="44" alt="X @thevoidzxc" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://cursor.com/@voidzxc"><img src="cursor-button.svg" height="56" alt="Cursor cursor.com/@voidzxc" /></a>
+  <a href="https://cursor.com/@voidzxc"><img src="cursor-button.svg" height="44" alt="Cursor cursor.com/@voidzxc" /></a>
 </p>
 
 <p align="center"><strong><code>I ship projects to the end. No slop.</code></strong></p>
