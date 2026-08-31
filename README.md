@@ -25,19 +25,19 @@ I stay deep in AI/ML, agents, open-source models, and reasoning systems. I like 
 ### <img src="https://api.iconify.design/feather/cpu.svg?color=%239ca3af" width="18" height="18" align="absmiddle" /> Stack & Tools
 
 <p align="center">
-  <img src="cursor-icon.svg" height="26" alt="Cursor" />
+  <img src="cursor-icon.svg?v=3" height="26" alt="Cursor" />
   &nbsp;&nbsp;
-  <img src="grok-icon.svg" height="26" alt="Grok" />
+  <img src="grok-icon.svg?v=3" height="26" alt="Grok" />
   &nbsp;&nbsp;
-  <img src="react-icon.svg" height="26" alt="React" />
+  <img src="react-icon.svg?v=3" height="26" alt="React" />
   &nbsp;&nbsp;
-  <img src="python-icon.svg" height="26" alt="Python" />
+  <img src="python-icon.svg?v=3" height="26" alt="Python" />
   <br />
-  <img src="huggingface-icon.svg" height="26" alt="Hugging Face" />
+  <img src="huggingface-icon.svg?v=3" height="26" alt="Hugging Face" />
   &nbsp;&nbsp;
-  <img src="grok-bot-icon.svg" height="26" alt="Grok Bot" />
+  <img src="grok-bot-icon.svg?v=3" height="26" alt="Grok Bot" />
   &nbsp;&nbsp;
-  <img src="pstack-icon.svg" height="26" alt="pstack" />
+  <img src="pstack-icon.svg?v=3" height="26" alt="pstack" />
 </p>
 
 ---
