@@ -14,7 +14,7 @@
 
 ### <img src="https://api.iconify.design/feather/user.svg?color=%239ca3af" width="18" height="18" align="absmiddle" /> About
 
-I build precise, end-to-end software - currently focused on a B2B SaaS startup covering real problems end-to-end. I'm 16, based in Germany, and spend most of my time at the intersection of AI research and Agentic Orchestration
+I build precise, end-to-end software - currently focused on a B2B SaaS startup covering real problems end-to-end. I'm 16, based in Germany, and spend most of my time at the intersection of AI research and Agentic Orchestration.
 
 > 306+ days on Cursor. I don't prototype. I ship.
 
