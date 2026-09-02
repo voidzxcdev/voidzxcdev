@@ -14,7 +14,7 @@
 
 ### <img src="https://api.iconify.design/feather/user.svg?color=%239ca3af" width="18" height="18" align="absmiddle" /> About
 
-I build precise, end-to-end software - currently focused on a B2B SaaS startup covering real problems end-to-end. I'm 16, based in Germany, and spend most of my time at the intersection of AI research and vibecoding.
+I build precise, end-to-end software - currently focused on a B2B SaaS startup covering real problems end-to-end. I'm 16, based in Germany, and spend most of my time at the intersection of AI research and Agentic Orchestration
 
 > 306+ days on Cursor. I don't prototype. I ship.
 
@@ -56,7 +56,7 @@ I stay deep in AI/ML, agents, open-source models, and reasoning systems. I like 
 ### <img src="https://api.iconify.design/feather/target.svg?color=%239ca3af" width="18" height="18" align="absmiddle" /> Current Focus
 
 <img src="https://api.iconify.design/feather/play.svg?color=%239ca3af" width="14" height="14" align="absmiddle" /> Building a B2B SaaS startup from zero to shipped  
-<img src="https://api.iconify.design/feather/play.svg?color=%239ca3af" width="14" height="14" align="absmiddle" /> Vibecoding production-grade projects with Cursor + Grok Bot  
+<img src="https://api.iconify.design/feather/play.svg?color=%239ca3af" width="14" height="14" align="absmiddle" /> Leveraging AI-native engineering to accelerate enterprise-scale applications within Cursor and Grok Bot  
 <img src="https://api.iconify.design/feather/play.svg?color=%239ca3af" width="14" height="14" align="absmiddle" /> Researching open-source LLMs, MoEs, and agent architectures  
 <img src="https://api.iconify.design/feather/play.svg?color=%239ca3af" width="14" height="14" align="absmiddle" /> Working toward SpaceXAI - cursor and grok bot shaped my workflow
 
