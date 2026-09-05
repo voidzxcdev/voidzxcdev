@@ -16,7 +16,7 @@
 
 I build precise, end-to-end software - currently focused on a B2B SaaS startup covering real problems end-to-end. I'm 16, based in Germany, and spend most of my time at the intersection of AI research and Agentic Orchestration.
 
-> 308+ days on Cursor. I don't prototype. I ship.
+> 309+ days on Cursor. I don't prototype. I ship.
 
 I stay deep in AI/ML, agents, open-source models, and reasoning systems. I like tools that let me move fast without losing accuracy.
 
