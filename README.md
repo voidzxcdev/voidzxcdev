@@ -5,79 +5,80 @@
 <p align="center">
   <a href="https://x.com/thevoidzxc"><img src="x-button.svg" height="44" alt="X @thevoidzxc" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://cursor.com/@voidzxc"><img src="cursor-button.svg" height="44" alt="Cursor cursor.com/@voidzxc" /></a>
+  <a href="https://cursor.com/@voidzxc"><img src="cursor-button.svg" height="44" alt="Cursor @voidzxc" /></a>
+</p>
+
+<p align="center">
+  <a href="https://voidzxc.cv"><strong>voidzxc.cv</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://ackord.app"><strong>ackord.app</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://cal.com/voidzxc"><strong>book a call</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/semion-kasparovich-318530434/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.threads.com/@voidzxcdev">Threads</a>
 </p>
 
 <p align="center"><strong><code>I ship projects to the end.</code></strong></p>
 
 ---
 
-### <img src="https://api.iconify.design/feather/user.svg?color=%239ca3af" width="18" height="18" align="absmiddle" /> About
+### About
 
-I build precise, end-to-end software - currently focused on a B2B SaaS startup covering real problems end-to-end. I'm 16, based in Germany, and spend most of my time at the intersection of AI research and Agentic Orchestration.
+I'm **Semion**. Full-stack developer in Berlin. I build the interface, the backend, and the path between them.
 
-> 315+ days on Cursor. I don't prototype. I ship.
+Right now I'm shipping **[Ackord](https://ackord.app)**, a B2B SaaS for SLA and goodwill credit claims. I also work on applied research in LLMs and agents.
 
-I stay deep in AI/ML, agents, open-source models, and reasoning systems. I like tools that let me move fast without losing accuracy.
+I'm 16. I write TypeScript, JavaScript, HTML, and CSS. I've also written Python, Rust, and SQL.
 
 ---
 
-### <img src="https://api.iconify.design/feather/cpu.svg?color=%239ca3af" width="18" height="18" align="absmiddle" /> Stack & Tools
+### Building
+
+- **[Ackord](https://ackord.app)** - B2B SaaS for SLA and goodwill credit claims
+- **[voidzxc.cv](https://voidzxc.cv)** - site and CV
+
+---
+
+### Stack
 
 <p align="center">
-  <img src="cursor-icon.svg?v=3" height="26" alt="Cursor" />
+  <img src="cursor-icon.svg" height="26" alt="Cursor" />
   &nbsp;&nbsp;
   <img src="grok-official-icon.svg" height="26" alt="Grok" />
   &nbsp;&nbsp;
-  <img src="react-icon.svg?v=3" height="26" alt="React" />
+  <img src="python-icon.svg" height="26" alt="Python" />
   &nbsp;&nbsp;
-  <img src="python-icon.svg?v=3" height="26" alt="Python" />
-  <br />
-  <img src="huggingface-icon.svg?v=3" height="26" alt="Hugging Face" />
-  &nbsp;&nbsp;
-  <img src="grok-bot-icon.svg?v=3" height="26" alt="Grok Bot" />
-  &nbsp;&nbsp;
-  <img src="pstack-icon.svg?v=3" height="26" alt="pstack" />
+  <img src="huggingface-icon.svg" height="26" alt="Hugging Face" />
 </p>
 
----
+**Languages:** TypeScript, JavaScript, HTML, CSS, Python, Rust, SQL
 
-### <img src="https://api.iconify.design/feather/aperture.svg?color=%239ca3af" width="18" height="18" align="absmiddle" /> Research Interests
-
-- **LLMs** - architecture, training dynamics, inference optimization
-- **Open-Source MoE & LLMs**
-- **Agents** - autonomous systems, tool use, execution
-- **Multimodal** - vision-language, cross-modal reasoning
-- **Reasoning** - chain-of-thought, test-time compute
-- **Synthetic Data** - generation pipelines, quality filtering, scaling
+**Tools:** Cursor, Grok, OpenCode, Hermes Agent, Devin
 
 ---
 
-### <img src="https://api.iconify.design/feather/target.svg?color=%239ca3af" width="18" height="18" align="absmiddle" /> Current Focus
+### Research
 
-<img src="https://api.iconify.design/feather/play.svg?color=%239ca3af" width="14" height="14" align="absmiddle" /> Building a B2B SaaS startup from zero to shipped  
-<img src="https://api.iconify.design/feather/play.svg?color=%239ca3af" width="14" height="14" align="absmiddle" /> Leveraging AI-native engineering to accelerate enterprise-scale applications within Cursor and Grok Bot  
-<img src="https://api.iconify.design/feather/play.svg?color=%239ca3af" width="14" height="14" align="absmiddle" /> Researching open-source LLMs, MoEs, and agent architectures  
-<img src="https://api.iconify.design/feather/play.svg?color=%239ca3af" width="14" height="14" align="absmiddle" /> Working toward SpaceXAI - cursor and grok bot shaped my workflow
+- **LLMs** - architecture, training dynamics, inference
+- **Open-source models** and MoE
+- **Agents** - tool use, execution, orchestration
+- **Reasoning** and test-time compute
+- **Synthetic data** pipelines
 
 ---
 
-### <img src="https://api.iconify.design/feather/globe.svg?color=%239ca3af" width="18" height="18" align="absmiddle" /> Languages
+### Languages
 
-```
-English  ████████████████████  fluent
-German   ████████████████░░░░  fluent
-Russian  ████████████████████  native
-```
+English fluent · German fluent · Russian native
 
 ---
 
 <div align="center">
 
-<img src="https://api.iconify.design/feather/anchor.svg?color=%239ca3af" width="18" height="18" align="absmiddle" />
-
 ```
-"build it to the end, no matter what."
+build it to the end, no matter what.
 ```
 
 </div>
