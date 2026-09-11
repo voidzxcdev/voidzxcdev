@@ -15,7 +15,7 @@
   &nbsp;·&nbsp;
   <a href="https://cal.com/voidzxc"><strong>book a call</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/semion-kasparovich-318530434/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/voidzxc">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://www.threads.com/@voidzxcdev">Threads</a>
 </p>
