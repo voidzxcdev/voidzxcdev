@@ -11,8 +11,6 @@
 <p align="center">
   <a href="https://voidzxc.cv"><strong>voidzxc.cv</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://ackord.app"><strong>ackord.app</strong></a>
-  &nbsp;·&nbsp;
   <a href="https://cal.com/voidzxc"><strong>book a call</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/voidzxc">LinkedIn</a>
@@ -28,7 +26,7 @@
 
 I'm **Semion**. Full-stack developer in Berlin. I build the interface, the backend, and the path between them.
 
-Right now I'm shipping **[Ackord](https://ackord.app)**, a B2B SaaS for SLA and goodwill credit claims. I also work on applied research in LLMs and agents.
+I work on applied research in LLMs and agents.
 
 I'm 16. I write TypeScript, JavaScript, HTML, and CSS. I've also written Python, Rust, and SQL.
 
@@ -36,7 +34,6 @@ I'm 16. I write TypeScript, JavaScript, HTML, and CSS. I've also written Python,
 
 ### Building
 
-- **[Ackord](https://ackord.app)** - B2B SaaS for SLA and goodwill credit claims
 - **[voidzxc.cv](https://voidzxc.cv)** - site and CV
 
 ---
