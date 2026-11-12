@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="picture.jpg" width="880" alt="">
+  <img src="picture.jpg" width="100%" alt="">
 </p>
 
 <p align="center">
-  <img src="banner.svg" width="880" alt="voidzxc, Germany">
+  <img src="banner.svg" width="100%" alt="voidzxc, Germany">
 </p>
 
 <p align="center">
@@ -21,11 +21,11 @@
 </p>
 
 <p align="center">
-  <img src="stack.svg" width="820" alt="Cursor, TypeScript, JavaScript, Python, Rust, React, Hugging Face, Grok">
+  <img src="stack.svg" width="100%" alt="Cursor, TypeScript, JavaScript, Python, Rust, React, Hugging Face, Grok">
 </p>
 
 <p align="center">
-  <img src="graph.svg" width="820" alt="What I write, and where the work goes">
+  <img src="graph.svg" width="100%" alt="What I write, and where the work goes">
 </p>
 
 ## Now
