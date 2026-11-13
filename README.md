@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="banner.svg?v=3" width="100%" alt="voidzxc">
+  <img src="name.svg" width="100%" alt="voidzxc">
 </p>
 
 <p align="center">
-  <a href="https://voidzxc.cv"><img src="link-site.svg?v=3" width="36" alt="voidzxc.cv"></a>
+  <a href="https://voidzxc.cv"><img src="mark-site.svg" width="36" alt="voidzxc.cv"></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/thevoidzxc"><img src="link-x.svg?v=3" width="36" alt="X"></a>
+  <a href="https://x.com/thevoidzxc"><img src="mark-x.svg" width="36" alt="X"></a>
   &nbsp;&nbsp;
-  <a href="https://cursor.com/@voidzxc"><img src="cursor-icon.svg?v=3" width="36" alt="Cursor"></a>
+  <a href="https://cursor.com/@voidzxc"><img src="mark-cursor.svg" width="36" alt="Cursor"></a>
   &nbsp;&nbsp;
-  <a href="https://cal.com/voidzxc"><img src="link-cal.svg?v=3" width="36" alt="Cal.com"></a>
+  <a href="https://cal.com/voidzxc"><img src="mark-cal.svg" width="36" alt="Cal.com"></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/voidzxc"><img src="link-linkedin.svg?v=3" width="36" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/voidzxc"><img src="mark-linkedin.svg" width="36" alt="LinkedIn"></a>
   &nbsp;&nbsp;
-  <a href="https://www.threads.com/@voidzxcdev"><img src="link-threads.svg?v=3" width="36" alt="Threads"></a>
+  <a href="https://www.threads.com/@voidzxcdev"><img src="mark-threads.svg" width="36" alt="Threads"></a>
 </p>
 
 <p align="center">
