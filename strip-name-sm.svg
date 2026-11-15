@@ -4,14 +4,14 @@
     animate, animateTransform, animateMotion { display: none; }
   }
 </style></defs>
-  <defs><linearGradient id="name" x1="-0.7" y1="0" x2="-0.15" y2="0">
-    <stop offset="0" stop-color="#B8B8C2"/>
-    <stop offset="0.42" stop-color="#F4F4F5"/>
+  <defs><linearGradient id="name" gradientUnits="userSpaceOnUse" x1="64" y1="0" x2="121" y2="0">
+    <stop offset="0" stop-color="#C8C8D0"/>
+    <stop offset="0.35" stop-color="#F4F4F5"/>
     <stop offset="0.5" stop-color="#FFFFFF"/>
-    <stop offset="0.64" stop-color="#8E98A6"/>
-    <stop offset="1" stop-color="#F4F4F5"/>
-    <animate attributeName="x1" values="-0.8;-0.8;1.2" keyTimes="0;0.28;1" dur="6.4s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.42 0 0.2 1"/>
-    <animate attributeName="x2" values="-0.25;-0.25;1.75" keyTimes="0;0.28;1" dur="6.4s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.42 0 0.2 1"/>
+    <stop offset="0.66" stop-color="#8E98A6"/>
+    <stop offset="1" stop-color="#E4E4E7"/>
+    <animate attributeName="x1" values="64;336" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="121;393" dur="2.4s" repeatCount="indefinite"/>
   </linearGradient></defs>
     <rect width="400" height="112" rx="22" fill="#0C0C0F"/>
   <path d="M23.25,1.25 H376.75 A22,22 0 0 1 398.75,23.25 V88.75 A22,22 0 0 1 376.75,110.75 H23.25 A22,22 0 0 1 1.25,88.75 V23.25 A22,22 0 0 1 23.25,1.25 Z" fill="none" stroke="#232328" stroke-width="1"/>

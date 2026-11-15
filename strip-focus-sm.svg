@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 312" width="400" height="312" role="img" aria-label="Focus: LLMs, agents, tools, research">
+  <defs><style>
+  @media (prefers-reduced-motion: reduce) {
+    animate, animateTransform, animateMotion { display: none; }
+  }
+</style></defs>
+  <rect width="400" height="312" rx="22" fill="#0C0C0F"/>
+  <path d="M23.25,1.25 H376.75 A22,22 0 0 1 398.75,23.25 V288.75 A22,22 0 0 1 376.75,310.75 H23.25 A22,22 0 0 1 1.25,288.75 V23.25 A22,22 0 0 1 23.25,1.25 Z" fill="none" stroke="#232328" stroke-width="1"/>
+  <path d="M23.25,1.25 H376.75 A22,22 0 0 1 398.75,23.25 V288.75 A22,22 0 0 1 376.75,310.75 H23.25 A22,22 0 0 1 1.25,288.75 V23.25 A22,22 0 0 1 23.25,1.25 Z" fill="none" stroke="#F4F4F5" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="38.5 649.6">
+    <animate attributeName="stroke-dashoffset" from="0" to="-1376.2" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M23.25,1.25 H376.75 A22,22 0 0 1 398.75,23.25 V288.75 A22,22 0 0 1 376.75,310.75 H23.25 A22,22 0 0 1 1.25,288.75 V23.25 A22,22 0 0 1 23.25,1.25 Z" fill="none" stroke="#8E98A6" stroke-width="1.1" stroke-linecap="round" stroke-dasharray="17.3 670.8">
+    <animate attributeName="stroke-dashoffset" from="-688.1" to="-2064.3" dur="12s" repeatCount="indefinite"/>
+  </path>
+    <text x="28" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#8B8B94" letter-spacing="2.2">FOCUS</text>
+  <line x1="168" y1="30" x2="372" y2="30" stroke="#2A2A32" stroke-width="1"/>
+    <line x1="200" y1="106" x2="272" y2="178" stroke="#3A3A44" stroke-width="1.4" stroke-dasharray="4 7">
+        <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="3.10s" repeatCount="indefinite"/>
+      </line>
+<line x1="272" y1="178" x2="200" y2="250" stroke="#3A3A44" stroke-width="1.4" stroke-dasharray="4 7">
+        <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="3.45s" repeatCount="indefinite"/>
+      </line>
+<line x1="200" y1="250" x2="128" y2="178" stroke="#3A3A44" stroke-width="1.4" stroke-dasharray="4 7">
+        <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="3.80s" repeatCount="indefinite"/>
+      </line>
+<line x1="128" y1="178" x2="200" y2="106" stroke="#3A3A44" stroke-width="1.4" stroke-dasharray="4 7">
+        <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="4.15s" repeatCount="indefinite"/>
+      </line>
+<line x1="200" y1="106" x2="200" y2="250" stroke="#3A3A44" stroke-width="1.4" stroke-dasharray="4 7">
+        <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="4.50s" repeatCount="indefinite"/>
+      </line>
+<line x1="272" y1="178" x2="128" y2="178" stroke="#3A3A44" stroke-width="1.4" stroke-dasharray="4 7">
+        <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="4.85s" repeatCount="indefinite"/>
+      </line>
+    <circle r="2.6" fill="#FFFFFF">
+      <animateMotion dur="7s" repeatCount="indefinite" path="M200,106 L272,178 L200,250 L128,178 Z" calcMode="linear"/>
+    </circle>
+    <circle r="2" fill="#9AA4B2">
+      <animateMotion dur="11s" repeatCount="indefinite" path="M200,106 L128,178 L200,250 L272,178 Z" calcMode="linear"/>
+    </circle>
+    <circle cx="200" cy="106" r="5" fill="none" stroke="#F4F4F5" opacity="0">
+        <animate attributeName="r" values="5;18" dur="3.4s" begin="0.00s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.5;0" dur="3.4s" begin="0.00s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="200" cy="106" r="4.5" fill="#0C0C0F" stroke="#F4F4F5" stroke-width="1.6"/>
+      <text x="200" y="90" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E4E4E7">LLMs</text>
+<circle cx="272" cy="178" r="5" fill="none" stroke="#F4F4F5" opacity="0">
+        <animate attributeName="r" values="5;18" dur="3.4s" begin="0.70s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.5;0" dur="3.4s" begin="0.70s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="272" cy="178" r="4.5" fill="#0C0C0F" stroke="#F4F4F5" stroke-width="1.6"/>
+      <text x="286" y="182" text-anchor="start" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E4E4E7">Agents</text>
+<circle cx="200" cy="250" r="5" fill="none" stroke="#F4F4F5" opacity="0">
+        <animate attributeName="r" values="5;18" dur="3.4s" begin="1.40s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.5;0" dur="3.4s" begin="1.40s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="200" cy="250" r="4.5" fill="#0C0C0F" stroke="#F4F4F5" stroke-width="1.6"/>
+      <text x="200" y="272" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E4E4E7">Tools</text>
+<circle cx="128" cy="178" r="5" fill="none" stroke="#F4F4F5" opacity="0">
+        <animate attributeName="r" values="5;18" dur="3.4s" begin="2.10s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.5;0" dur="3.4s" begin="2.10s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="128" cy="178" r="4.5" fill="#0C0C0F" stroke="#F4F4F5" stroke-width="1.6"/>
+      <text x="114" y="182" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E4E4E7">Research</text>
+</svg>

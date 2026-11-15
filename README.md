@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 759px)" srcset="hero-sm.svg">
-    <img src="hero.svg" width="100%" alt="voidzxc">
+    <source media="(max-width: 759px)" srcset="strip-name-sm.svg">
+    <img src="strip-name.svg" width="100%" alt="voidzxc">
   </picture>
 </p>
 
@@ -19,15 +19,29 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 759px)" srcset="tools-sm.svg">
-    <img src="tools.svg" width="100%" alt="Cursor, TypeScript, JavaScript, Python, Rust, React, Hugging Face, Grok">
+    <source media="(max-width: 759px)" srcset="strip-lang-sm.svg">
+    <img src="strip-lang.svg" width="100%" alt="Languages: TypeScript, JavaScript, Python, Rust, React">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(max-width: 759px)" srcset="work-sm.svg">
-    <img src="work.svg" width="100%" alt="What I write, and where the work goes">
+    <source media="(max-width: 759px)" srcset="strip-tools-sm.svg">
+    <img src="strip-tools.svg" width="100%" alt="Tools: Cursor, Hugging Face, Grok">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 759px)" srcset="strip-write-sm.svg">
+    <img src="strip-write.svg" width="100%" alt="What I write">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 759px)" srcset="strip-focus-sm.svg">
+    <img src="strip-focus.svg" width="100%" alt="Focus: LLMs, agents, tools, research">
   </picture>
 </p>
 
@@ -41,7 +55,7 @@ Site and CV.
 
 <p align="center">
   <picture>
-    <source media="(max-width: 759px)" srcset="close-sm.svg">
-    <img src="close.svg" width="100%" alt="build it to the end.">
+    <source media="(max-width: 759px)" srcset="strip-end-sm.svg">
+    <img src="strip-end.svg" width="100%" alt="build it to the end.">
   </picture>
 </p>
