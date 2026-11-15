@@ -19,29 +19,8 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 759px)" srcset="strip-lang-sm.svg">
-    <img src="strip-lang.svg" width="100%" alt="Languages: TypeScript, JavaScript, Python, Rust, React">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(max-width: 759px)" srcset="strip-tools-sm.svg">
-    <img src="strip-tools.svg" width="100%" alt="Tools: Cursor, Hugging Face, Grok">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(max-width: 759px)" srcset="strip-write-sm.svg">
-    <img src="strip-write.svg" width="100%" alt="What I write">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(max-width: 759px)" srcset="strip-focus-sm.svg">
-    <img src="strip-focus.svg" width="100%" alt="Focus: LLMs, agents, tools, research">
+    <source media="(max-width: 759px)" srcset="mosaic-sm.svg">
+    <img src="mosaic.svg" width="100%" alt="TypeScript, JavaScript, Python, Rust, React, Cursor, Hugging Face, Grok, and what I write">
   </picture>
 </p>
 
