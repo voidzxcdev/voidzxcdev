@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://voidzxc.cv"><img src="mark-site.svg" width="36" alt="voidzxc.cv"></a>
+  <a href="https://voidzxc.cv"><img src="social-site.png" width="36" alt="voidzxc.cv"></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/thevoidzxc"><img src="mark-x.svg" width="36" alt="X"></a>
+  <a href="https://x.com/thevoidzxc"><img src="social-x.svg" width="36" alt="X"></a>
   &nbsp;&nbsp;
-  <a href="https://cursor.com/@voidzxc"><img src="mark-cursor.svg" width="36" alt="Cursor"></a>
+  <a href="https://cursor.com/@voidzxc"><img src="social-cursor.svg" width="36" alt="Cursor"></a>
   &nbsp;&nbsp;
-  <a href="https://cal.com/voidzxc"><img src="mark-cal.svg" width="36" alt="Cal.com"></a>
+  <a href="https://cal.com/voidzxc"><img src="social-cal.svg" width="36" alt="Cal.com"></a>
   &nbsp;&nbsp;
-  <a href="https://www.threads.com/@voidzxcdev"><img src="mark-threads.svg" width="36" alt="Threads"></a>
+  <a href="https://www.threads.com/@voidzxcdev"><img src="social-threads.svg" width="36" alt="Threads"></a>
 </p>
 
 <p align="center">
