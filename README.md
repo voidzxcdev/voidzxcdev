@@ -19,8 +19,8 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 759px)" srcset="mosaic-sm.svg">
-    <img src="mosaic.svg" width="100%" alt="TypeScript, JavaScript, Python, Rust, React, Cursor, Hugging Face, Grok, and what I write">
+    <source media="(max-width: 759px)" srcset="board-sm.svg">
+    <img src="board.svg" width="100%" alt="TypeScript, JavaScript, Python, Rust, React, Cursor, Hugging Face, Grok, and what I write">
   </picture>
 </p>
 
