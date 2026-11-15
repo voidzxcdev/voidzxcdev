@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 128" width="920" height="128" role="img" aria-label="voidzxc">
+  <defs><style>
+  @media (prefers-reduced-motion: reduce) {
+    animate, animateTransform, animateMotion { display: none; }
+  }
+</style></defs>
+  <defs><linearGradient id="name" x1="-0.7" y1="0" x2="-0.15" y2="0">
+    <stop offset="0" stop-color="#B8B8C2"/>
+    <stop offset="0.42" stop-color="#F4F4F5"/>
+    <stop offset="0.5" stop-color="#FFFFFF"/>
+    <stop offset="0.64" stop-color="#8E98A6"/>
+    <stop offset="1" stop-color="#F4F4F5"/>
+    <animate attributeName="x1" values="-0.8;-0.8;1.2" keyTimes="0;0.28;1" dur="6.4s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.42 0 0.2 1"/>
+    <animate attributeName="x2" values="-0.25;-0.25;1.75" keyTimes="0;0.28;1" dur="6.4s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.42 0 0.2 1"/>
+  </linearGradient></defs>
+    <rect width="920" height="128" rx="22" fill="#0C0C0F"/>
+  <path d="M23.25,1.25 H896.75 A22,22 0 0 1 918.75,23.25 V104.75 A22,22 0 0 1 896.75,126.75 H23.25 A22,22 0 0 1 1.25,104.75 V23.25 A22,22 0 0 1 23.25,1.25 Z" fill="none" stroke="#232328" stroke-width="1"/>
+  <path d="M23.25,1.25 H896.75 A22,22 0 0 1 918.75,23.25 V104.75 A22,22 0 0 1 896.75,126.75 H23.25 A22,22 0 0 1 1.25,104.75 V23.25 A22,22 0 0 1 23.25,1.25 Z" fill="none" stroke="#F4F4F5" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="57.4 966.8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-2048.2" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M23.25,1.25 H896.75 A22,22 0 0 1 918.75,23.25 V104.75 A22,22 0 0 1 896.75,126.75 H23.25 A22,22 0 0 1 1.25,104.75 V23.25 A22,22 0 0 1 23.25,1.25 Z" fill="none" stroke="#8E98A6" stroke-width="1.1" stroke-linecap="round" stroke-dasharray="25.8 998.3">
+    <animate attributeName="stroke-dashoffset" from="-1024.1" to="-3072.3" dur="12s" repeatCount="indefinite"/>
+  </path>
+    <text x="460" y="64" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="600" fill="url(#name)">voidzxc</text>
+</svg>

@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="name.svg" width="100%" alt="voidzxc">
+  <picture>
+    <source media="(max-width: 759px)" srcset="hero-sm.svg">
+    <img src="hero.svg" width="100%" alt="voidzxc">
+  </picture>
 </p>
 
 <p align="center">
@@ -15,11 +18,17 @@
 </p>
 
 <p align="center">
-  <img src="stack.svg" width="100%" alt="Cursor, TypeScript, JavaScript, Python, Rust, React, Hugging Face, Grok">
+  <picture>
+    <source media="(max-width: 759px)" srcset="tools-sm.svg">
+    <img src="tools.svg" width="100%" alt="Cursor, TypeScript, JavaScript, Python, Rust, React, Hugging Face, Grok">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="graph.svg" width="100%" alt="What I write, and where the work goes">
+  <picture>
+    <source media="(max-width: 759px)" srcset="work-sm.svg">
+    <img src="work.svg" width="100%" alt="What I write, and where the work goes">
+  </picture>
 </p>
 
 ## Now
@@ -31,5 +40,8 @@ Discord Rich Presence for Cursor that follows the agent.
 Site and CV.
 
 <p align="center">
-  <sub>build it to the end.</sub>
+  <picture>
+    <source media="(max-width: 759px)" srcset="close-sm.svg">
+    <img src="close.svg" width="100%" alt="build it to the end.">
+  </picture>
 </p>
