@@ -11,8 +11,6 @@
   &nbsp;&nbsp;
   <a href="https://cal.com/voidzxc"><img src="mark-cal.svg" width="36" alt="Cal.com"></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/voidzxc"><img src="mark-linkedin.svg" width="36" alt="LinkedIn"></a>
-  &nbsp;&nbsp;
   <a href="https://www.threads.com/@voidzxcdev"><img src="mark-threads.svg" width="36" alt="Threads"></a>
 </p>
 
